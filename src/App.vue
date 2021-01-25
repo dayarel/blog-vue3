@@ -1,8 +1,4 @@
-<template>
-  <div class="home">
-    <h1>Home</h1>
-  </div>
-</template>
+<template> <router-view></router-view></template>
 
 <style>
 #app {
